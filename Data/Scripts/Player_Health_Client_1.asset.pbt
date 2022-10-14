@@ -1,11 +1,11 @@
 Assets {
-  Id: 6319988776053467322
+  Id: 3027244679702011900
   Name: "Player_Health_Client"
   PlatformAssetType: 3
   TextAsset {
     CustomParameters {
     }
   }
-  SerializationVersion: 118
+  SerializationVersion: 119
   VirtualFolderPath: "Player Health"
 }

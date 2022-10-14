@@ -546,7 +546,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6319988776053467322
+            Id: 3027244679702011900
           }
         }
         NetworkRelevanceDistance {
@@ -952,6 +952,7 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 118
+  SerializationVersion: 119
+  DirectlyPublished: true
   VirtualFolderPath: "Player Health"
 }

@@ -25,7 +25,7 @@ end
 
 function Tick(dt)
 	BAR.width = math.floor(LOCAL_PLAYER.hitPoints / LOCAL_PLAYER.maxHitPoints * WIDTH)
-	
+
 	if(SHOW_TEXT) then
 		HEALTH_AMOUNT.text = string.format("%0.f", LOCAL_PLAYER.hitPoints)
 	end

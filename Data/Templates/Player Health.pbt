@@ -39,7 +39,7 @@ Assets {
           }
           Overrides {
             Name: "cs:Width"
-            Int: 600
+            Int: 500
           }
           Overrides {
             Name: "cs:Height"
@@ -304,7 +304,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Control {
-          Width: 600
+          Width: 500
           Height: 30
           UIY: -40
           RenderTransformPivot {
